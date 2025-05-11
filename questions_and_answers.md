@@ -1,10 +1,9 @@
 # Chicago Crime & Weather
 ## Questions and Answers
 
-**Author**: Jaime M. Shaker <br />
-**Email**: jaime.m.shaker@gmail.com <br />
-**Website**: https://www.shaker.dev <br />
-**LinkedIn**: https://www.linkedin.com/in/jaime-shaker/  <br />
+**Author**: Rajiv Kumar <br />
+**Email**: rajiv844121kr@gmail.com <br />
+**LinkedIn**: https://www.linkedin.com/in/rajiv-kumar-835685289/  <br />
 
 :exclamation: If you find this repository helpful, please consider giving it a :star:. Thanks! :exclamation:
 
